@@ -1,2 +1,2 @@
 # html-tutorial
-My custom HTML Project from the Tutorial
+My custom HTML Project from the HTML Tutorial
